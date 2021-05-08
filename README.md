@@ -8,4 +8,12 @@ Este fue un proyecto que hice para un vídeo del nuevo año 2021 en mi página d
 
 ![image](https://user-images.githubusercontent.com/65135568/117539677-512f1d80-afd1-11eb-9aa7-f003e56790f9.png)
 
+si te sale esto
+
+![image](https://user-images.githubusercontent.com/65135568/117541227-7d9a6800-afd8-11eb-818c-0b091de8f676.png)
+
+solo compila el proyecto.
+
+
+
 
