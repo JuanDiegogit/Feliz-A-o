@@ -6,4 +6,6 @@ Este fue un proyecto que hice para un vídeo del nuevo año 2021 en mi página d
 
 1- clonar el proyecto
 
+![image](https://user-images.githubusercontent.com/65135568/117539677-512f1d80-afd1-11eb-9aa7-f003e56790f9.png)
+
 
