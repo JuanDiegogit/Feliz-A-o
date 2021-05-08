@@ -12,7 +12,7 @@ si te sale esto
 
 ![image](https://user-images.githubusercontent.com/65135568/117541227-7d9a6800-afd8-11eb-818c-0b091de8f676.png)
 
-solo compila el proyecto.
+solo compila el proyecto, y cierra todos los formularios que tiene abierto para que puedas ver el diseño.
 
 
 
